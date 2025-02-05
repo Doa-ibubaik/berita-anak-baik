@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://doa-ibubaik.github.io/berita-anak-baik/sitemap.xml
